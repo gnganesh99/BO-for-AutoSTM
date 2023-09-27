@@ -1,3 +1,6 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/pycroscopy/pycroscopy/blob/main/jupyter_notebooks/Image_Registration.ipynb)
+
 # -*- coding: utf-8 -*-
 """
 Created on Fri Jun  2 13:16:07 2023
